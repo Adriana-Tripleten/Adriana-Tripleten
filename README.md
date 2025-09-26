@@ -48,4 +48,4 @@ Este repositorio especial contiene el `README.md` con algunos datos sobre mí:
 
 ---
 
-⚡ *Dato curioso*: mi formación es en Derecho ⚖️, pero me apasiona descubrir cómo la tecnología y las pruebas de software pueden transformar la experiencia de los usuarios.  
+⚡ *Dato curioso*: Mi formación es en Derecho ⚖️, pero me apasiona descubrir cómo la tecnología y las pruebas de software pueden transformar la experiencia de los usuarios.  
