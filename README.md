@@ -1,4 +1,4 @@
-## ¡Hola! 👋 Soy Adriana Andrade  
+¡Hola! 👋 Soy Adriana Andrade  
 
 Bienvenido/a a mi perfil de GitHub ✨.  
 Este repositorio especial contiene el `README.md` con algunos datos sobre mí:
